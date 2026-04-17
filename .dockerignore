@@ -1,0 +1,7 @@
+venv/
+**/__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+.git/
+backend/services/_model_temp.pt

@@ -1,0 +1,33 @@
+# Python
+venv/
+__pycache__/
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.Python
+
+# Runtime-generated model temp file
+backend/services/_model_temp.pt
+
+# Environment
+.env
+.env.*
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
+
+# Root-level originals (already copied into frontend/assets/)
+/perfume/
+/logo_aseel.jpeg
+/logo_aseel.png
