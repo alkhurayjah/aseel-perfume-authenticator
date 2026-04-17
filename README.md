@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌸 Aseel — Perfume Authenticity Detector
+# Aseel — Perfume Authenticity Detector
 ### أصيل — كاشف أصالة العطور
 
 **AI-powered counterfeit perfume detection · كشف العطور المقلدة بالذكاء الاصطناعي**
@@ -23,7 +23,7 @@
 
 ---
 
-## 🌐 Live App | التطبيق المباشر
+## 🌐 Live App 
 
 👉 **[https://aseel-perfume-authenticator.onrender.com/](https://aseel-perfume-authenticator.onrender.com/)**
 
@@ -31,11 +31,6 @@
 1. Open the app
 2. Upload a clear photo of the perfume bottle, or use your camera
 3. Click **"Analyze"** — get your result in seconds
-
-**طريقة الاستخدام:**
-1. افتح التطبيق
-2. ارفع صورة واضحة لزجاجة العطر، أو استخدم الكاميرا مباشرة
-3. اضغط **"تحليل العطر"** — احصل على النتيجة في ثوانٍ
 
 ---
 
