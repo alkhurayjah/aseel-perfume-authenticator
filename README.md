@@ -1,7 +1,7 @@
 <div align="center">
 
 # Aseel — Perfume Authenticity Detector
-### أصيل — كاشف أصالة العطور
+
 
 **AI-powered counterfeit perfume detection · كشف العطور المقلدة بالذكاء الاصطناعي**
 
@@ -15,11 +15,11 @@
 
 ---
 
-## 📖 Overview | نظرة عامة
+##  Overview 
 
-**English:** Aseel is an AI system that detects whether a perfume is genuine or counterfeit from a single photo. Upload an image of any perfume bottle and the system returns an instant verdict — **Original** or **Fake** — along with a confidence score.
+**Aseel:** is an AI system that detects whether a perfume is genuine or counterfeit from a single photo. Upload an image of any perfume bottle and the system returns an instant verdict — **Original** or **Fake** — along with a confidence score.
 
-**العربية:** أصيل هو نظام ذكاء اصطناعي يكشف ما إذا كان العطر أصلياً أم مقلداً من صورة واحدة فقط. ارفع صورة أي زجاجة عطر وسيعطيك النظام حكمًا فوريًا — **أصلي** أم **مقلد** — مع نسبة الثقة.
+
 
 ---
 
