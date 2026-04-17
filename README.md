@@ -94,7 +94,7 @@ The AI learns to spot these fraud indicators:
 
 ---
 
-## Project Structure | هيكل المشروع
+## Project Structure 
 
 ```
 aseel-perfume-authenticator/
