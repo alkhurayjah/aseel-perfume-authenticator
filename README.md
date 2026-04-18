@@ -7,7 +7,7 @@
 
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-aseel--perfume--authenticator.onrender.com-blue?style=for-the-badge)](https://aseel-perfume-authenticator.onrender.com/)
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EfficientNet--B4-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-MobileNetV3--Large-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
 
 </div>
