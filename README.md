@@ -11,6 +11,15 @@
 
 
 </div>
+## 🌐 Live Demo
+
+Try the app live here:
+**[https://aseel-perfume-authenticator.onrender.com](https://aseel-perfume-authenticator.onrender.com)**
+
+Upload a perfume bottle image and get an instant **Original / Fake** prediction with a confidence score
+
+---
+
 
 ---
 
