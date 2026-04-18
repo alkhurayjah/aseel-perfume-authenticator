@@ -25,13 +25,11 @@ Counterfeit products are a growing form of commercial fraud, causing significant
 - ​​Difficulty distinguishing between genuine and counterfeit products
 - Financial losses for manufacturers and deception of consumers
 
-## 💡 Our Solution
+## Our Solution
 We developed an automated system that:
 - Analyzes visual features such as **logo, text, color, and bottle shape**
 - Detects subtle differences between original and counterfeit products
 - Provides instant classification results with confidence levels
-
----
 
 ---
 
@@ -49,37 +47,9 @@ The model learns to distinguish authentic packaging from counterfeits by focusin
 ---
 
 
-**Why MobileNetV3-Large?**
-
-| Property | EfficientNet-B0 | MobileNetV3-Large |
-|---|---|---|
-| Params | 5.3 M | 5.5 M |
-| ImageNet Top-1 | 77.7 % | 75.3 % |
-| Inference speed | Medium | **Very fast** |
-| SE blocks | ✓ | ✓ |
-| Hard-Swish activation | ✗ | ✓ |
-| Small-dataset generalisation | Good | **Better** |
-
----
-
-## 🛡️ Anti-Overfitting Strategy
-
-Training on ~170–220 images is challenging. Aseel uses a full suite of regularisation techniques:
-
-- **Heavy augmentation** — RandAugment (N=2, M=9) + geometric transforms + colour jitter
-- **MixUp training** — blends pairs of training images and their labels
-- **Label smoothing** (ε = 0.1) — prevents overconfident predictions
-- **Aggressive dropout** — 0.5 in the head
-- **Cosine-annealing LR with warm restarts** (T₀=10, T_mult=2)
-- **Gradient clipping** (max norm = 1.0)
-- **WeightedRandomSampler** — handles class imbalance
-- **Early stopping** — patience of 8 / 12 epochs per phase
-
----
-
 ##  Future Work
 
-- [ ] Expand dataset with more perfume brands and lighting conditions
+- [ ] Expand dataset with more perfume and other brands like Makeup and Cream brands
 - [ ] Calibration layer (temperature scaling) for better probability estimates
 
 
